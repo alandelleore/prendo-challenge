@@ -1,25 +1,38 @@
-import logo from './logo.svg';
-import './App.css';
+import { GlobalContext } from "./context/GlobalContext";
+import { useContext } from "react";
 
-function App() {
+import NameForm from "./views/NameForm";
+import LocationForm from "./views/LocationForm";
+import SuccessMessage from "./views/SuccessMessage";
+import Agencies from "./views/Agencies";
+import "./App.css";
+
+const App = () => {
+
+const {step} = useContext(GlobalContext)
+
+  const getCompStep = () => {
+    switch (step) {
+      case 1: 
+        return <LocationForm />;
+      case 2: 
+        return <NameForm />;
+      case 3:
+        return <SuccessMessage/>;
+      case 4:
+        return <Agencies/>;
+      default:
+        return <LocationForm/>;
+    }
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='container p-4 mt-2 col-md-5'>
+      
+      <>{getCompStep()}</>
+  
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
