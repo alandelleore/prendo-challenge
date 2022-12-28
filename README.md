@@ -1,11 +1,11 @@
 # Prendo Challenge
 
 ## TECNOLOGÍAS: 
-+. React js
- - └ create-react-app
- - └ useState
- - └ useRef
- - └ useContext
+### React js
+ -  create-react-app
+ -  useState
+ -  useRef
+ -  useContext
 + JavaScript
 + Bootstrap
 + Google maps api
