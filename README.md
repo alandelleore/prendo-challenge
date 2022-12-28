@@ -1,15 +1,15 @@
 # Prendo Challenge
 
-## TECNOLOGIAS: 
+## TECNOLOGÍAS: 
 + React js
-  └ create-react-app
-  └ useState
-  └ useRef
-  └ useContext
+ * └ create-react-app
+ * └ useState
+ * └ useRef
+ * └ useContext
 + JavaScript
 + Bootstrap
 + Google maps api
- └ react-google-map/api
+ * └ react-google-map/api
  
 
 site: https://challengeprendo.netlify.app/
