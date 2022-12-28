@@ -2,7 +2,7 @@
 
 site: https://challengeprendo.netlify.app/
 
-![1](https://user-images.githubusercontent.com/84545725/209749679-32e89441-2372-4d72-96bc-9440277717b7.jpeg) ![2](https://user-images.githubusercontent.com/84545725/209749687-5f8f2136-d780-4951-a9a8-6148a80dc37b.jpeg) ![3](https://user-images.githubusercontent.com/84545725/209749890-653f1a85-fb29-4cd1-8886-dd783e40eb24.jpeg) ![4](https://user-images.githubusercontent.com/84545725/209749919-2f8a274e-219a-443c-8513-716111602bb2.jpeg) ![5](https://user-images.githubusercontent.com/84545725/209749934-310c1586-d735-4b9e-901a-492fae0243cf.jpeg)
+![img proyect](https://user-images.githubusercontent.com/84545725/209750801-1a0b4cac-d7fb-4cba-9f8f-81aad589b292.jpg)
 
 ## Available Scripts
 
