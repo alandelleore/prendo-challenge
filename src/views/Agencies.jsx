@@ -12,7 +12,7 @@ const Agencies = () => {
   const [agencieName, setAgencieName] = useState("");
 
   return (
-    <div className="mt-4">
+    <div>
       <div className="d-flex justify-content-between mb-4">
         <HomeButton />
         <ExitButton />
