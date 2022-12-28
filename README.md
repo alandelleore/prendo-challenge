@@ -2,7 +2,7 @@
 
 site: https://challengeprendo.netlify.app/
 
-![1](https://user-images.githubusercontent.com/84545725/209749679-32e89441-2372-4d72-96bc-9440277717b7.jpeg)![2](https://user-images.githubusercontent.com/84545725/209749687-5f8f2136-d780-4951-a9a8-6148a80dc37b.jpeg)
+![1](https://user-images.githubusercontent.com/84545725/209749679-32e89441-2372-4d72-96bc-9440277717b7.jpeg) ![2](https://user-images.githubusercontent.com/84545725/209749687-5f8f2136-d780-4951-a9a8-6148a80dc37b.jpeg)
 
 
 
