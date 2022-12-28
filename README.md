@@ -11,7 +11,7 @@
 ### Google maps api
  -  react-google-map/api
  
-## VIEWS
+## VIEWS:
 site: https://challengeprendo.netlify.app/
 
 ![img proyect](https://user-images.githubusercontent.com/84545725/209751974-988dc6a5-e323-4338-81f5-a797d18a8b04.jpg)
