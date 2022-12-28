@@ -1,8 +1,8 @@
 # Prendo Challenge
 
 ## TECNOLOGÍAS: 
-+ React js
- (-) └ create-react-app
++. React js
+ - └ create-react-app
  - └ useState
  - └ useRef
  - └ useContext
