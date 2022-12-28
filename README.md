@@ -2,7 +2,7 @@
 
 ## TECNOLOGÍAS: 
 + React js
- - └ create-react-app
+ (- └ create-react-app)
  - └ useState
  - └ useRef
  - └ useContext
