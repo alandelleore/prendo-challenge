@@ -14,7 +14,7 @@
 ## VIEWS:
 site: https://challengeprendo.netlify.app/
 
-![img proyect](https://user-images.githubusercontent.com/84545725/209751974-988dc6a5-e323-4338-81f5-a797d18a8b04.jpg)
+![img proyect](https://user-images.githubusercontent.com/84545725/210101860-a7fb618b-446f-4b4a-bdec-744e1b481906.jpg)
 
 ## Available Scripts
 
