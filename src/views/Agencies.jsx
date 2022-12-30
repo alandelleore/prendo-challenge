@@ -1,7 +1,7 @@
 import { GoogleMap, Marker } from "@react-google-maps/api";
 import { useContext, useState } from "react";
 import { GlobalContext } from "../context/GlobalContext";
-import HomeButton from "../components/HomeButton";
+import AddButton from "../components/AddButton";
 import ExitButton from "../components/ExitButton";
 import carIcon from "../assets/car-icon.png";
 import "../App.css";
@@ -14,7 +14,7 @@ const Agencies = () => {
   return (
     <div>
       <div className="d-flex justify-content-between mb-4">
-        <HomeButton />
+        <AddButton />
         <ExitButton />
       </div>
 
